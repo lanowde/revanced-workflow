@@ -29,7 +29,7 @@ arch = "arm64-v8a"
 excluded-patches = "'Alternative thumbnails'"
 patcher-args = "-e 'Custom branding' -OappName=Youtube!"
 
-[Twitch!]
+[Twitch]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 included-patches = "'Debug mode'"
